@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 96
+  controlID: 41
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 418
     height: 1307
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 39
+  controlID: 42
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 40
+  controlID: 43
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -330,9 +330,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3c860000
-    m_LastClickedID: 34364
-    m_ExpandedIDs: 000000002485000026850000548500005e85000000ca9a3bffffff7f
+    m_SelectedIDs: 0c610000
+    m_LastClickedID: 24844
+    m_ExpandedIDs: 00000000e2600000ec6000000e61000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000e2600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -487,24 +487,24 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 340}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2481ffff3888ffff9888ffff708bffff9c90fffff290ffff1093ffff5896ffff9496ffffd096ffff1e97ffff369fffff749fffffccabffff0eb1ffff56b1ffff96b1ffffd4b1ffff14b2ffff50b2ffff8eb2ffffceb2ffff08b5ffff56bcffff92bcffffdabcffff18bdffff58bdffff94bdffffe0bdffff20beffff5ebeffff0ac0ffff10c1ffff64c1ffffa2c1ffffd0c1fffffec1ffff30c2ffff62c7ffff4ac8ffff9ac8ffffc8cfffff7ea000006ca60000acb1000070b20000f2b20000dcb600006cb70000d0b7000030b80000eab80000f4b8000000b900005cb9000076b9000034ba0000e4ba0000bec1000022c3000038c30000eac300007ec4000030c5000076c5000080c500000ec6000060e30000b0e30000e8e4000018e5000092e60000e6f300004ef500001afd0000aa03010072050100c6050100de050100740601005a070100b607010006080100ee090100
+      m_ExpandedIDs: 1afaffff0a590000ec590000185a00004a5b0000685b0000825b00009c5b0000b05b0000825c0000cc5c0000285d00003e5d0000ba5d0000f05d00002e5e00008e5e0000985e0000265f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: NavRoof2ToChimney
+        m_OriginalName: NavRoof2ToChimney
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 23040
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -816,9 +816,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2129.3452, y: -2019.7838, z: -25.03819}
+    m_Target: {x: 118.29928, y: -2456.154, z: -86.26265}
     speed: 2
-    m_Value: {x: -2122.1033, y: -2012.542, z: -25.428175}
+    m_Value: {x: 85.56619, y: -2410.4207, z: -87.95038}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -868,9 +868,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 827.63983
+    m_Target: 3581.7292
     speed: 2
-    m_Value: 866.63855
+    m_Value: 3750.502
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -888,7 +888,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0.13635096, y: 0.36600837, z: -0.054306578, w: 0.91896594}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
