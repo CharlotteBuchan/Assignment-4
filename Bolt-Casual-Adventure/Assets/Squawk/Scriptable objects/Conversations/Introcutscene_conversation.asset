@@ -13,25 +13,13 @@ MonoBehaviour:
   m_Name: Introcutscene_conversation
   m_EditorClassIdentifier: 
   charactersList:
-  - '<color=#B82F2C>Santa</color>: '
-  - '<color=#397551>Elf</color>: '
+  - 
   dialogueList:
-  - charactersListIndex: 1
-    dialogue: Can I deliver some presents this year?
   - charactersListIndex: 0
-    dialogue: Alright, you can deliver <b><color=#B82F2C>one</color></b> present
-  - charactersListIndex: 1
-    dialogue: Hooray!
+    dialogue: Ruin's Edge is a strange town..
   - charactersListIndex: 0
-    dialogue: Take a present, go down the chimney and leave it under the tree.
-  - charactersListIndex: 1
-    dialogue: Present. Chimney. Tree. Got it!
+    dialogue: Everyone has a role to play.
   - charactersListIndex: 0
-    dialogue: Then climb back up and set off a firework. I'll come pick you up.
-  - charactersListIndex: 1
-    dialogue: Set off the firework. Check!
+    dialogue: You're new in town,
   - charactersListIndex: 0
-    dialogue: I've got 2 billion other presents to deliver, so don't mess this one
-      up.
-  - charactersListIndex: 1
-    dialogue: This is gonna be brilliant!
+    dialogue: And now you are The Doctor.
