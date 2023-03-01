@@ -639,10 +639,10 @@ MonoBehaviour:
   mainCursor: {fileID: 2800000, guid: 05d7a107f58c6e340ad21ec7587a924b, type: 3}
   lookCursor: {fileID: 2800000, guid: 8b26aef1e2bc4554a99df8037d3185b9, type: 3}
   useCursor: {fileID: 2800000, guid: 41b2bed62ddc6a94fb7b0ec1e1caf5aa, type: 3}
-  pickupCursor: {fileID: 2800000, guid: ca832c797106f254e98da9dc2c4a15d2, type: 3}
-  navigateCursorUp: {fileID: 2800000, guid: 6755b7c0dd89f394cba2a00a26d1631c, type: 3}
-  carryItemCursor: {fileID: 2800000, guid: 052d34bb041e2d14dba87f6a4efe70a0, type: 3}
-  inventoryCursor: {fileID: 2800000, guid: ca832c797106f254e98da9dc2c4a15d2, type: 3}
+  pickupCursor: {fileID: 2800000, guid: 05d7a107f58c6e340ad21ec7587a924b, type: 3}
+  navigateCursorUp: {fileID: 2800000, guid: 05d7a107f58c6e340ad21ec7587a924b, type: 3}
+  carryItemCursor: {fileID: 2800000, guid: 05d7a107f58c6e340ad21ec7587a924b, type: 3}
+  inventoryCursor: {fileID: 2800000, guid: 05d7a107f58c6e340ad21ec7587a924b, type: 3}
 --- !u!4 &916675194
 Transform:
   m_ObjectHideFlags: 0

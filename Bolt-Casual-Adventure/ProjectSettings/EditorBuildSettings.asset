@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Squawk/Scenes/ChimneyCollapse_cutscene.unity
     guid: af4ff158d91ff5d4aa4eaab9ec0291d9
   - enabled: 1
-    path: Assets/Squawk/Scenes/Intro_cutscene.unity
+    path: Assets/Squawk/Scenes/Intro_cutscene2.unity
     guid: bd92a00592c08c64f8756435581b47d2
   - enabled: 1
     path: Assets/Squawk/Scenes/XmasAdventure.unity

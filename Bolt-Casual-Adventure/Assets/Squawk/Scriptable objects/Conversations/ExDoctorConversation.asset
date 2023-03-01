@@ -10,16 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: adbf4d43284aec54181a2511d8f4913a, type: 3}
-  m_Name: Introcutscene_conversation
+  m_Name: ExDoctorConversation
   m_EditorClassIdentifier: 
   charactersList:
   - 
   dialogueList:
   - charactersListIndex: 0
-    dialogue: Ruin's Edge is a strange town..
+    dialogue: Oh, It's you. Good to see you've finally arrived, I've been dying to
+      get out of this place.
   - charactersListIndex: 0
-    dialogue: Everyone has a role to play.
+    dialogue: 'Not literally, of course...
+
+      But they are.'
   - charactersListIndex: 0
-    dialogue: You're new in town,
+    dialogue: Now listen, there's a plague in this town. I narrowed it down to two
+      people, but if the wrong person is healed, it will spread-
   - charactersListIndex: 0
-    dialogue: And now you are The Doctor.
+    dialogue: Hey, wait, are you even listening?!
