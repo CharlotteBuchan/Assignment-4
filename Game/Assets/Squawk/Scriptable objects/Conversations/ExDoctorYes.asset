@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: adbf4d43284aec54181a2511d8f4913a, type: 3}
-  m_Name: ExDoctorNo
+  m_Name: ExDoctorYes
   m_EditorClassIdentifier: 
   charactersList:
   - 
   dialogueList:
   - charactersListIndex: 0
-    dialogue: Fine, whatever. I need to get out of here anyway...
+    dialogue: Good. Keep on track.
   - charactersListIndex: 0
     dialogue: All you need to know is that some of these towns folk are ill, and
       you have to figure out which before it's too late..
